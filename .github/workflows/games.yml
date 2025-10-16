@@ -48,4 +48,4 @@ jobs:
           # ID unik untuk file game Anda
           ID: 'kaaabaaa_pacman_game'
           # Teks yang akan diganti di README
-          PACMAN_TEXT: '\n\n'
+          PACMAN_TEXT: '\\n\\n'
