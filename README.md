@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Kaaabaaa/Kaaabaaa/blob/main/ChatGPT%20Image%2016%20Okt%202025,%2020.29.25.png?raw=true]" alt="Rijki Slamat Suhadiman Github Header"/>
+  <img src="[URL_GAMBAR_HEADER_ANDA]" alt="Rijki Slamat Suhadiman Github Header"/>
 </p>
 
 <div id="user-content-toc">
@@ -40,13 +40,31 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
 
 ---
 
+### 🎮 My GitHub Games
+
+<div align="center">
+  <p>Here's a snake eating my contribution graph! 🐍</p>
+  <img src="https://raw.githubusercontent.com/Kaaabaaa/Kaaabaaa/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</div>
+
+<br>
+
+<div align="center">
+  <p>Help Pac-Man eat the dots on my profile! 🕹️</p>
+  <p>
+    <a href="https://github.com/Kaaabaaa/Kaaabaaa/actions/workflows/pacman.yml"><img src="https://img.shields.io/badge/play-pacman-yellow?style=for-the-badge&logo=githubactions&logoColor=black" alt="Play Pac-Man"></a>
+  </p>
+</div>
+
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rijki-slamat-suhardiman-65656a162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app#" target="_blank">
+  <a href="https://linkedin.com/in/#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/iknitee_?igsh=dHczYXIzcDV3bHph#" target="_blank">
+  <a href="https://instagram.com/#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
