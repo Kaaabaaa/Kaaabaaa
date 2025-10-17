@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kaaabaaa/Kaaabaaa/blob/main/ChatGPT%20Image%2016%20Okt%202025,%2020.29.25.png?raw=true" alt="Rijki Slamat Suhadiman Github Header"/>
+  <img src="https://github.com/Kaaabaaa/Kaaabaaa/blob/main/Hei%20...I%E2%80%99m%20Iknitee.png" alt="Rijki Slamat Suhadiman Github Header"/>
 </p>
 
 <div id="user-content-toc">
