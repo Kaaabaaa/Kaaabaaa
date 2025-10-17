@@ -49,11 +49,28 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
 </div>
 
 <div align="center">
-  <p>Help Pac-Man eat the dots on my profile! 🕹️</p>
-  <a href="https://github.com/Kaaabaaa/Kaaabaaa/actions/workflows/pacman.yml">
-    <img src="https://img.shields.io/badge/play-pacman-yellow?style=for-the-badge&logo=githubactions&logoColor=black" alt="Play Pac-Man">
-  </a>
-</div>
+  ### 🕹️ Help Pac-Man eat the dots on my profile!
+
+<p align="center">
+    <a href="https://github.com/NAMA-USERNAME-ANDA/NAMA-USERNAME-ANDA/actions/workflows/pacman.yml">
+        <img src="https://raw.githubusercontent.com/NAMA-USERNAME-ANDA/NAMA-USERNAME-ANDA/main/pacman.svg" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/NAMA-USERNAME-ANDA/NAMA-USERNAME-ANDA/actions/workflows/pacman.yml?event.inputs.direction=up">
+        <img src="https://raw.githubusercontent.com/dalealleshouse/readme-pacman/main/assets/up.png" width="50" />
+    </a>
+    <a href="https://github.com/NAMA-USERNAME-ANDA/NAMA-USERNAME-ANDA/actions/workflows/pacman.yml?event.inputs.direction=down">
+        <img src="https://raw.githubusercontent.com/dalealleshouse/readme-pacman/main/assets/down.png" width="50" />
+    </a>
+    <a href="https://github.com/NAMA-USERNAME-ANDA/NAMA-USERNAME-ANDA/actions/workflows/pacman.yml?event.inputs.direction=left">
+        <img src="https://raw.githubusercontent.com/dalealleshouse/readme-pacman/main/assets/left.png" width="50" />
+    </a>
+    <a href="https://github.com/NAMA-USERNAME-ANDA/NAMA-USERNAME-ANDA/actions/workflows/pacman.yml?event.inputs.direction=right">
+        <img src="https://raw.githubusercontent.com/dalealleshouse/readme-pacman/main/assets/right.png" width="50" />
+    </a>
+</p>
 
 ---
 
