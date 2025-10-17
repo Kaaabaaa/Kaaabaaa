@@ -42,6 +42,16 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
 
 ### 🎮 My GitHub Games
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,git,vscode,figma,docker" />
+  </a>
+</p>
+
+---
+
+### 🎮 My GitHub Games
+
 <div align="center">
   <p>Here's a snake eating my contribution graph! 🐍</p>
   <img src="https://raw.githubusercontent.com/Kaaabaaa/Kaaabaaa/output/github-contribution-grid-snake.svg" alt="Snake Game">
@@ -61,10 +71,10 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rijki-slamat-suhardiman-65656a162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app#" target="_blank">
+  <a href="https://www.linkedin.com/in/rijki-slamat-suhardiman-65656a162" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/iknitee_?igsh=dHczYXIzcDV3bHph#" target="_blank">
+  <a href="https://www.instagram.com/iknitee_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
