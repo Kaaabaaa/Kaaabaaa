@@ -40,8 +40,6 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
 
 ---
 
-### 🎮 My GitHub Games
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,git,vscode,figma,docker" />
