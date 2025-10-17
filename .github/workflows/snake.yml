@@ -1,0 +1,26 @@
+# Nama GitHub Action
+name: Generate Snake
+
+# Kapan Action ini dijalankan
+on:
+  schedule:
+    # Dijalankan setiap 6 jam
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+# Tugas yang akan dijalankan
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          # ID user GitHub Anda
+          github_user_name: ${{ github.repository_owner }}
+
+          # Daftar output yang akan dibuat
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
