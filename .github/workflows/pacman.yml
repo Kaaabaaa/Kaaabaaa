@@ -1,0 +1,20 @@
+name: Pac-Man
+
+on:
+  workflow_dispatch:
+    inputs:
+      direction:
+        description: 'The direction for Pac-Man to move (up, down, left, or right)'
+        required: true
+
+jobs:
+  move-pacman:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Move Pac-Man
+        uses: dalealleshouse/readme-pacman@v1.0.2
+        with:
+          direction: ${{ github.event.inputs.direction }}
+          lives: 5 # Jumlah nyawa
