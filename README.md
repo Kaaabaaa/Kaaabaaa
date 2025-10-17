@@ -43,7 +43,7 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
 ### 🎮 My GitHub Games
 
 <div align="center">
-  <pHere's a snake eating my contribution graph! 🐍/p>
+  <p>Here's a snake eating my contribution graph! 🐍</p>
   <img src="https://raw.githubusercontent.com/Kaaabaaa/Kaaabaaa/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </div>
 
@@ -51,9 +51,9 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
 
 <div align="center">
   <p>Help Pac-Man eat the dots on my profile! 🕹️</p>
-  <p>
-    <a href="https://github.com/Kaaabaaa/Kaaabaaa/actions/workflows/pacman.yml"><img src="https://img.shields.io/badge/play-pacman-yellow?style=for-the-badge&logo=githubactions&logoColor=black" alt="Play Pac-Man"></a>
-  </p>
+  <a href="https://github.com/Kaaabaaa/Kaaabaaa/actions/workflows/pacman.yml">
+    <img src="https://img.shields.io/badge/play-pacman-yellow?style=for-the-badge&logo=githubactions&logoColor=black" alt="Play Pac-Man">
+  </a>
 </div>
 
 ---
