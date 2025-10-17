@@ -48,8 +48,6 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
   <img src="https://raw.githubusercontent.com/Kaaabaaa/Kaaabaaa/main/dist/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph">
 </div>
 
-<br>
-
 <div align="center">
   <p>Help Pac-Man eat the dots on my profile! 🕹️</p>
   <a href="https://github.com/Kaaabaaa/Kaaabaaa/actions/workflows/pacman.yml">
