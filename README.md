@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Kaaabaaa/Kaaabaaa/blob/main/ChatGPT%20Image%2016%20Okt%202025,%2020.29.25.png?raw=true]" alt="Rijki Slamat Suhadiman Github Header"/>
+  <img src="https://github.com/Kaaabaaa/Kaaabaaa/blob/main/ChatGPT%20Image%2016%20Okt%202025,%2020.29.25.png?raw=true" alt="Rijki Slamat Suhadiman Github Header"/>
 </p>
 
 <div id="user-content-toc">
@@ -23,10 +23,10 @@
 
 I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building things for the web and turning complex problems into simple, beautiful, and intuitive digital experiences. My goal is to leverage my skills to create high-tech solutions that make a difference.
 
-- 🌱 I’m currently diving deeper into **[Next.js, Go, atau Machine Learning]**.
+- 🌱 I’m currently diving deeper into **Next.js, Go, atau Machine Learning**.
 - 👯 I’m looking to collaborate on interesting open-source projects.
-- 💬 Ask me about anything related to **[JavaScript, Python, atau UI/UX Design]**.
-- 📫 How to reach me: **[rijkislamat99@gmail.com]**.
+- 💬 Ask me about anything related to **JavaScript, Python, atau UI/UX Design**.
+- 📫 How to reach me: **rijkislamat99@gmail.com**.
 
 ---
 
