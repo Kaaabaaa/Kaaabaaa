@@ -43,7 +43,7 @@ I am a passionate programmer from **Sukabumi, Indonesia**. I enjoy building thin
 ### 🎮 My GitHub Games
 
 <div align="center">
-  <p>Here's a snake eating my contribution graph! 🐍</p>
+  <pHere's a snake eating my contribution graph! 🐍/p>
   <img src="https://raw.githubusercontent.com/Kaaabaaa/Kaaabaaa/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </div>
 
